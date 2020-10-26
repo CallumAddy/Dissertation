@@ -66,10 +66,17 @@ in Proc. IEEE Symp. Computational Intell. and Games 2008 (CIG'08),
 
 Notes:
 
+- This paper discusses how different AI behaviours can affect how the game is pereceived whether the behaviours are fun to play against or not.
+
+- Predictable AI is one of the most common complaits found under the I heading in reviews of commericial games, so the fact that the AI in my project will learn from the player
+makes it less predictable and the player should enjoy playing against it more.
+
+- If all the AI act the same way it can also be boring for the player, so you want your AI to act differently, more human-like.
 
 
-4) K. Chellapilla and D. B. Fogel, “Evolution, neural networks, games,
-and intelligence,” Proc. IEEE, vol. 87, no. 9, pp. 1471–1496, Sep. 1999.
+4) B. D. Bryant, “Evolving visibly intelligent behavior for embedded
+game agents,” Ph.D. dissertation, Department of Computer Sciences,
+University of Texas, Austin, TX, 2006.
 
 Notes:
 
@@ -136,4 +143,107 @@ Notes:
 K. O. Stanley, B. D. Bryant, and R. Miikkulainen, “Real-time neuroevolution in the NERO video game,” IEEE Trans. Evol. Comput.,
 vol. 9, no. 6, pp. 653–668, 2005
 
+Notes: 
+
+
+15) 
+G. N. Yannakakis, “Ai in computer games: Generating interesting
+interactive opponents by the use of evolutionary computation,” Ph.D.
+dissertation, University of Edinburgh, 2005.
+
 Notes:
+
+16)
+Zach Laster, "Evolving Agents using NEAT to Achieve Human-like Play in
+FPS Games" Master's Thesis, University of Helsinki, 2014.
+
+Notes:
+
+- In this paper their goal is to make a human-like AI in an FPS game this is because AI's in FPS games are very rarely enjoyable to play against as they are very predictable.
+
+- AI's that behaviour like a human are more enjoyable to play against and are engaging for the player as they can't predict what will happen next.
+
+- This project talks about using NEAT to create a more engaging target for the player in an FPS game.
+
+- If a game is too easy it becomes boring quickly, therefore you have to find the right balance of how hard your AI is.
+
+- You want your AI to evolve with the players skills, it is good to reference the flowchannel [Hunicke and Chapman, 2004].
+
+- There is significant research in applying machine learning to games in order to achieve a dynamic and adaptive difficulty scaling, this makes the game more immersive for the player.
+
+- Dynamic Difficulty Scaling can be used to produce a more balanced game as it will adapt with the players skill level as the players skill level improves as will the AI.
+
+- Dynamic Difficulty Scaling is an online mechanic which means that it is utilised during gameplay, this is often achieved by adjusting difficulty between individuals sessions 
+ or rounds of the game, but it can adapt during the session.
+
+- Adaptive AI is the route I want to take with my artefact as I want my AI to adapt based on the players input.
+
+- Offline and Online learning can be used in conjunction to better the AI.
+
+- In addition to the difficulty of an agent, it is important that the agen should be interesting, the actions that the agent should perform should appear to be intelligent and human-like.
+
+- If the agents appear to act in a human-like manner this brings the game to life more than if the AI was predictable this will then proceed to add to player enjoyment.
+
+- Making the agent difficult does not always mean that they are fun to play against, the agent needs to act in a human-like manner so that the player can engage better.
+
+- It is believed that given agents human-like behaviours like running away and charging when angered gives the illusion that the agent is more realistic.
+
+- Uses search based approach to find the best solution for the agents problem.
+
+- NEAT evolves the topology of the network instead of just the weights.
+
+- Mutation in nEAT can generate new connections as well as new topology in the network
+
+- NEAT allows the genomes to grow without any limitations.
+
+- We can use NEAT to produce human-like agents which are interesting to play against, these agents once fully trained could be able to keep a player well within the flowchannel for most of the session.
+
+17)
+Andrade et al., 2005 Andrade, G., Ramalho, G., Santana, H., and Corruble, V.
+(2005). Challenge-sensitive action selection: an application to game
+balancing. In Intelligent Agent Technology, IEEE/WIC/ACM International Conference on, page 194-200. IEEE.
+
+Notes:
+
+
+18) 
+Arrabales et al., 2009 Arrabales, R., Ledezma, A., and Sanchis, A. (2009). Towards
+conscious-like behavior in computer game characters. In Computational
+Intelligence and Games, 2009. CIG 2009. IEEE Symposium on, page
+217-224. IEEE.
+
+Notes:
+
+
+19) 
+
+Bakkes et al., 2009 Bakkes, S., Spronck, P., and van den Herik, J. (2009). Rapid
+and reliable adaptation of video game AI. Computational Intelligence
+and AI in Games, IEEE Transactions on, 1(2):93-104.
+
+Notes:
+
+20)
+Cole et al., 2004 Cole, N., Louis, S., and Miles, C. (2004). Using a genetic algorithm
+to tune first-person shooter bots. In Evolutionary Computation, 2004.
+CEC2004. Congress on, volume 1, pages 139-145 Vol.1. IEEE.
+
+Notes:
+
+
+21)
+Hunicke and Chapman, 2004 Hunicke, R. and Chapman, V. (2004). AI for dynamic
+difficulty adjustment in games. In Challenges in Game Artificial Intelligence AAAI Workshop, pages 91-96.
+
+Notes:
+
+
+22)
+
+Westra, 2007 Westra, J. (2007). Evolutionary neural networks applied in first person
+shooters. Master's thesis, University Utrecht.
+
+Notes:
+
+
+
